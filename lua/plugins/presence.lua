@@ -6,6 +6,7 @@ function M.config()
 	require("cord").setup({
 		display = {
 			theme = "void",
+			flavor = "dark",
 		},
 
 		idle = {
